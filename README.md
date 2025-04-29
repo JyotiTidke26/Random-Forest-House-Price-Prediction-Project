@@ -19,8 +19,7 @@ We use a **Random Forest Regressor** to model and predict house prices. The pipe
 ---
 
 ## 📂 Dataset
-
-The dataset used for this project is publicly available on [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). It includes records of house sales with the following features:
+ It includes records of house sales with the following features:
 
 - `price` — 💰 House price *(target variable)*
 - `bedrooms`, `bathrooms` — 🛏️ Number of bedrooms & 🛁 bathrooms
@@ -77,6 +76,3 @@ The final tuned Random Forest Regressor achieved the following evaluation result
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
